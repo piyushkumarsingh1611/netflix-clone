@@ -1,0 +1,61 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.491), rgba(0, 0, 0, 0.416)) , url(./images/login-bg.jpeg);
+    height: 100vh;
+}
+.login-top{
+    width: 100vw;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.login-top img{
+    width: 150px;
+}
+
+
+.login-box{
+    background-color: rgba(0, 0, 0, 0.899);
+    width: 430px;
+    height: 630px;
+    border-radius: 5px;
+    padding: 50px;
+}
+
+.small-text{
+    font-size: 13px;
+}
+
+.form-control{
+    box-shadow: none !important;
+}
+.myButton a{
+  text-decoration: none;
+}
+.btn{
+text-decoration: none;
+}
+/* .myButton{
+	box-shadow:inset 0px 39px 0px -24px #f5150a;
+	background-color:#f21909;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #fa1808;
+}
+.myButton:hover {
+	background-color:#f5180c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+ */
